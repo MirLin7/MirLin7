@@ -1,4 +1,11 @@
 ## Hi there 👋
+# <span style="color: #2b7489;">C# Developer</span> 👨‍💻
+
+<span style="color: #c9c9c9;">Here I will share a diverse collection of software tools and projects - whatever I personally found useful 🛠️. I will also keep key milestones of my learning journey here - mostly for the history 📜.</span>
+
+<span style="color: #a371f7;">**I don't limit myself to one narrow specialization** 🧩. I respect standards, but I always look for ways to improve within them 📈.</span>
+
+<span style="color: #2ea043;">**My goal is not just to write code, but to understand the logic behind it** 🧠.</span>
 
 <!--
 **MirLin7/MirLin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
